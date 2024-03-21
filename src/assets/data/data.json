@@ -1,0 +1,332 @@
+{
+    "recipes": [
+      {
+        "name": "Classic Beef Burger",
+        "image_url": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/11db0425-c513-4006-a402-e7509d82bcb9/Derivates/99947aea-eed5-44ee-b283-b6271fc810d5.jpg",
+        "ingredients": [
+          "1 lb ground beef",
+          "1/4 cup breadcrumbs",
+          "1 egg",
+          "1/4 cup diced onion",
+          "1 clove garlic, minced",
+          "Salt and pepper to taste",
+          "4 hamburger buns",
+          "Lettuce, tomato, onion slices for topping"
+        ],
+        "instructions": [
+          "In a bowl, combine ground beef, breadcrumbs, egg, diced onion, minced garlic, salt, and pepper. Mix until well combined.",
+          "Divide the mixture into 4 equal portions and shape into patties.",
+          "Heat a grill or skillet over medium-high heat. Cook patties for 4-5 minutes on each side, or until desired doneness is reached.",
+          "Toast hamburger buns on the grill or skillet for 1-2 minutes.",
+          "Assemble burgers with lettuce, tomato, onion slices, and your favorite condiments. Serve hot."
+        ]
+      },
+      {
+        "name": "Margherita Pizza",
+        "image_url": "https://uk.ooni.com/cdn/shop/articles/20220211142645-margherita-9920.jpg?crop=center&height=800&v=1660843558&width=800",
+        "ingredients": [
+          "1 pizza dough",
+          "1/2 cup pizza sauce",
+          "8 oz fresh mozzarella cheese, sliced",
+          "2 ripe tomatoes, thinly sliced",
+          "Fresh basil leaves",
+          "Salt and pepper to taste",
+          "Extra virgin olive oil for drizzling"
+        ],
+        "instructions": [
+          "Preheat oven to 450°F (230°C).",
+          "Roll out pizza dough on a lightly floured surface into a round shape.",
+          "Spread pizza sauce evenly over the dough, leaving a small border around the edges.",
+          "Arrange sliced mozzarella cheese and tomato slices over the sauce.",
+          "Season with salt and pepper, then drizzle with extra virgin olive oil.",
+          "Bake in the preheated oven for 12-15 minutes, or until the crust is golden brown and the cheese is bubbly.",
+          "Remove from the oven, garnish with fresh basil leaves, slice, and serve hot."
+        ]
+      },
+      {
+        "name": "Chicken Stir-Fry",
+        "image_url": "https://www.allrecipes.com/thmb/xvlRRhK5ldXuGcXad8XDM5tTAfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223382_chicken-stir-fry_Rita-1x1-1-b6b835ccfc714bb6a8391a7c47a06a84.jpg",
+        "ingredients": [
+          "2 boneless, skinless chicken breasts, thinly sliced",
+          "2 tablespoons soy sauce",
+          "1 tablespoon hoisin sauce",
+          "1 tablespoon oyster sauce",
+          "1 teaspoon sesame oil",
+          "2 tablespoons vegetable oil",
+          "2 cloves garlic, minced",
+          "1 bell pepper, thinly sliced",
+          "1 onion, thinly sliced",
+          "1 cup broccoli florets",
+          "Cooked rice for serving"
+        ],
+        "instructions": [
+          "In a bowl, marinate chicken slices with soy sauce, hoisin sauce, oyster sauce, and sesame oil. Set aside for 10-15 minutes.",
+          "Heat vegetable oil in a large skillet or wok over high heat. Add minced garlic and stir-fry for 30 seconds.",
+          "Add marinated chicken slices and stir-fry for 3-4 minutes, or until cooked through.",
+          "Add bell pepper, onion, and broccoli florets. Stir-fry for an additional 2-3 minutes, or until vegetables are tender-crisp.",
+          "Serve hot over cooked rice."
+        ]
+      },
+      {
+        "name": "Vegetable Lasagna",
+        "image_url": "https://www.eatingwell.com/thmb/QqojYWXFa6iQ2dWdaIM8OkYAHlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5245863-bdb23ff6bf8e47e68f4f99ca593d8785.jpg",
+        "ingredients": [
+          "9 lasagna noodles",
+          "2 cups marinara sauce",
+          "2 cups ricotta cheese",
+          "1 cup grated Parmesan cheese",
+          "2 cups shredded mozzarella cheese",
+          "2 cups assorted vegetables (such as spinach, zucchini, bell peppers, mushrooms)",
+          "2 cloves garlic, minced",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "Cook lasagna noodles according to package instructions until al dente. Drain and set aside.",
+          "In a skillet, heat olive oil over medium heat. Add minced garlic and sauté until fragrant, about 1 minute.",
+          "Add assorted vegetables and cook until tender. Season with salt and pepper.",
+          "In a bowl, combine ricotta cheese, grated Parmesan cheese, and half of the shredded mozzarella cheese.",
+          "Spread a thin layer of marinara sauce in the bottom of a baking dish. Arrange 3 lasagna noodles on top.",
+          "Spread half of the ricotta cheese mixture over the noodles, followed by half of the vegetable mixture.",
+          "Repeat the layers, ending with a layer of marinara sauce and the remaining shredded mozzarella cheese.",
+          "Cover the baking dish with foil and bake for 30 minutes. Remove foil and bake for an additional 10 minutes, or until cheese is bubbly and golden brown.",
+          "Let cool slightly before slicing and serving."
+        ]
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "image_url": "https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-square640.jpg",
+        "ingredients": [
+          "1 cup unsalted butter, softened",
+          "1 cup granulated sugar",
+          "1 cup packed brown sugar",
+          "2 large eggs",
+          "1 teaspoon vanilla extract",
+          "3 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1/2 teaspoon salt",
+          "2 cups semisweet chocolate chips"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "In a large bowl, cream together softened butter, granulated sugar, and brown sugar until smooth.",
+          "Beat in eggs one at a time, then stir in vanilla extract.",
+          "In a separate bowl, combine all-purpose flour, baking soda, and salt. Gradually add dry ingredients to the creamed mixture and mix well.",
+          "Stir in chocolate chips.",
+          "Drop by rounded tablespoonfuls onto ungreased baking sheets.",
+          "Bake for 8 to 10 minutes, or until golden brown.",
+          "Let cookies cool on baking sheets for 5 minutes before transferring to wire racks to cool completely."
+        ]
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chicken-tikka-masala.jpg",
+        "ingredients": [
+          "For the chicken marinade:",
+          "1 lb boneless, skinless chicken thighs, cut into bite-sized pieces",
+          "1/2 cup plain yogurt",
+          "2 tablespoons lemon juice",
+          "2 teaspoons ground cumin",
+          "2 teaspoons paprika",
+          "1 teaspoon ground turmeric",
+          "1 teaspoon garam masala",
+          "1 teaspoon ground coriander",
+          "Salt and pepper to taste",
+          "For the sauce:",
+          "2 tablespoons vegetable oil",
+          "1 onion, finely chopped",
+          "4 cloves garlic, minced","1 tablespoon grated ginger",
+          "1 tablespoon ground cumin",
+          "1 tablespoon paprika",
+          "1 teaspoon ground turmeric",
+          "1 teaspoon garam masala",
+          "1 teaspoon ground coriander",
+          "1/2 teaspoon cayenne pepper (optional, for heat)",
+          "1 can (14 oz) crushed tomatoes",
+          "1 cup heavy cream",
+          "Salt and pepper to taste",
+          "Fresh cilantro for garnish",
+          "Cooked rice or naan bread for serving"
+        ],
+        "instructions": [
+          "In a bowl, combine chicken pieces with yogurt, lemon juice, ground cumin, paprika, ground turmeric, garam masala, ground coriander, salt, and pepper. Mix until chicken is well coated. Cover and marinate in the refrigerator for at least 1 hour, or overnight.",
+          "Heat vegetable oil in a large skillet over medium-high heat. Add chopped onion and cook until softened, about 5 minutes.",
+          "Add minced garlic and grated ginger, and cook for another 2 minutes.",
+          "Stir in ground cumin, paprika, ground turmeric, garam masala, ground coriander, and cayenne pepper (if using). Cook for 1 minute until fragrant.",
+          "Add marinated chicken pieces (discard excess marinade) to the skillet and cook until browned on all sides, about 5 minutes.",
+          "Pour in crushed tomatoes and bring to a simmer. Reduce heat to medium-low, cover, and cook for 15-20 minutes, stirring occasionally.",
+          "Stir in heavy cream and simmer for an additional 5 minutes, or until sauce thickens slightly.",
+          "Season with salt and pepper to taste.",
+          "Garnish with fresh cilantro and serve hot over cooked rice or with naan bread."
+        ]
+      },
+      {
+        "name": "Caprese Salad",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2003/9/22/0/tm1a35_caprese_salad.jpg.rend.hgtvcom.1280.1280.suffix/1530799984231.jpeg",
+        "ingredients": [
+          "2 large ripe tomatoes, sliced",
+          "8 oz fresh mozzarella cheese, sliced",
+          "Fresh basil leaves",
+          "Extra virgin olive oil",
+          "Balsamic glaze (optional)",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Arrange alternating slices of tomatoes and fresh mozzarella cheese on a serving platter.",
+          "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+          "Drizzle with extra virgin olive oil and balsamic glaze (if using).",
+          "Season with salt and pepper to taste.",
+          "Serve immediately as a refreshing appetizer or side dish."
+        ]
+      },
+      {
+        "name": "Shrimp Scampi",
+        "image_url": "https://static01.nyt.com/images/2022/06/02/dining/ShrimpScampi_thumb/ShrimpScampi_thumb-square640.jpg",
+        "ingredients": [
+          "1 lb large shrimp, peeled and deveined",
+          "1/4 cup all-purpose flour",
+          "4 tablespoons unsalted butter",
+          "4 cloves garlic, minced",
+          "1/2 cup white wine",
+          "2 tablespoons lemon juice",
+          "1/4 teaspoon red pepper flakes",
+          "Salt and pepper to taste",
+          "Cooked pasta for serving",
+          "Fresh parsley for garnish"
+        ],
+        "instructions": [
+          "Pat dry shrimp with paper towels, then toss in all-purpose flour until evenly coated.",
+          "In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant, about 1 minute.",
+          "Add floured shrimp to the skillet and cook until pink and opaque, about 2-3 minutes per side.",
+          "Remove shrimp from the skillet and set aside.",
+          "Deglaze the skillet with white wine, scraping up any browned bits from the bottom.",
+          "Stir in lemon juice and red pepper flakes. Simmer for 2-3 minutes to reduce slightly.",
+          "Return cooked shrimp to the skillet and toss to coat in the sauce.",
+          "Season with salt and pepper to taste.",
+          "Serve hot over cooked pasta, garnished with fresh parsley."
+        ]
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/7/21/3/FNM_090110-WN-Dinners-040_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1371593454283.jpeg",
+        "ingredients": [
+          "6 cups chicken or vegetable broth",
+          "2 tablespoons olive oil",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1 lb mushrooms (such as cremini or shiitake), sliced",
+          "2 cups Arborio rice",
+          "1/2 cup dry white wine",
+          "1/2 cup grated Parmesan cheese",
+          "2 tablespoons unsalted butter",
+          "Salt and pepper to taste",
+          "Fresh parsley for garnish"
+        ],
+        "instructions": [
+          "In a saucepan, heat chicken or vegetable broth over low heat. Keep warm.",
+          "In a large skillet or Dutch oven, heat olive oil over medium heat. Add chopped onion and cook until softened, about 5 minutes.",
+          "Add minced garlic and sliced mushrooms to the skillet. Cook until mushrooms are golden brown and tender, about 8-10 minutes.",
+          "Stir in Arborio rice and cook for 1-2 minutes, stirring constantly, until rice is lightly toasted.",
+          "Pour in dry white wine and cook, stirring constantly, until wine is absorbed.",
+          "Ladle warm broth into the skillet, 1 cup at a time, stirring frequently and allowing each addition to be absorbed before adding more. Continue until rice is creamy and tender, about 20-25 minutes.",
+          "Stir in grated Parmesan cheese and unsalted butter until melted and incorporated.",
+          "Season with salt and pepper to taste.",
+          "Garnish with fresh parsley and serve hot."
+        ]
+      },
+      {
+        "name": "Banana Bread",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/9/0/FNK_the-best-banana-bread_H_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1568055523140.jpeg",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1/4 teaspoon salt",
+          "1/2 cup unsalted butter, softened",
+          "3/4 cup brown sugar",
+          "2 large eggs",
+          "1 teaspoon vanilla extract",
+          "3 ripe bananas, mashed",
+          "1/2 cup chopped walnuts or pecans (optional)"
+        ],
+        "instructions": [
+          "Preheat oven to 350°F (175°C). Grease a 9x5-inch loaf pan.",
+          "In a bowl, whisk together all-purpose flour, baking soda, and salt.",
+          "In a separate large bowl, cream together softened butter and brown sugar until light and fluffy.",
+          "Beat in eggs one at a time, then stir in vanilla extract and mashed bananas.",
+          "Gradually add dry ingredients to the creamed mixture and mix until just combined.",
+          "Fold in chopped walnuts or pecans (if using).",
+          "Pour batter into the prepared loaf pan.",
+          "Bake for 60-65 minutes, or until a toothpick inserted into the center comes out clean.",
+          "Let banana bread cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+        ]
+      },
+      {
+        "name": "Caesar Salad",
+        "image_url": "https://www.billyparisi.com/wp-content/uploads/2020/05/caesar-salad-2.jpg",
+        "ingredients": [
+          "1 head romaine lettuce, chopped",
+          "1/2 cup Caesar dressing",
+          "1/4 cup grated Parmesan cheese",
+          "1 cup croutons",
+          "Salt and black pepper to taste"
+        ],
+        "instructions": [
+          "In a large salad bowl, combine chopped romaine lettuce and Caesar dressing. Toss until lettuce is evenly coated.",
+          "Add grated Parmesan cheese and croutons to the salad bowl.",
+          "Season with salt and black pepper to taste.",
+          "Toss salad until ingredients are evenly distributed.",
+          "Serve immediately as a refreshing appetizer or side dish."
+        ]
+      },
+      {
+        "name": "Beef Stir-Fry",
+        "image_url": "https://www.marionskitchen.com/wp-content/uploads/2019/04/Super-Tender-Beef-Stir-fry2.jpg",
+        "ingredients": [
+          "1 lb beef sirloin or flank steak, thinly sliced",
+          "3 tablespoons soy sauce",
+          "2 tablespoons oyster sauce",
+          "1 tablespoon hoisin sauce",
+          "1 tablespoon cornstarch",
+          "2 tablespoons vegetable oil",
+          "3 cloves garlic, minced",
+          "1 onion, thinly sliced",
+          "1 bell pepper, thinly sliced",
+          "1 cup broccoli florets",
+          "Cooked rice for serving"
+        ],
+        "instructions": [
+          "In a bowl, marinate beef slices with soy sauce, oyster sauce, hoisin sauce, and cornstarch. Set aside for 15-20 minutes.",
+          "Heat vegetable oil in a large skillet or wok over high heat. Add minced garlic and cook until fragrant, about 30 seconds.",
+          "Add marinated beef slices to the skillet and stir-fry for 2-3 minutes, or until browned.",
+          "Add sliced onion, bell pepper, and broccoli florets to the skillet. Stir-fry for an additional 3-4 minutes, or until vegetables are tender-crisp.",
+          "Serve hot over cooked rice."
+        ]
+      },
+      {
+        "name": "Pancakes",
+        "image_url": "https://www.wholesomeyum.com/wp-content/uploads/2017/03/wholesomeyum-Low-Carb-Keto-Pancakes-Recipe-21-500x500.jpg",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "2 tablespoons granulated sugar",
+          "1 teaspoon baking powder",
+          "1/2 teaspoon baking soda",
+          "1/4 teaspoon salt",
+          "1 cup buttermilk",
+          "1 large egg",
+          "2 tablespoons unsalted butter, melted",
+          "1 teaspoon vanilla extract",
+          "Butter or oil for cooking",
+          "Maple syrup and fresh berries for serving"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together all-purpose flour, granulated sugar, baking powder, baking soda, and salt.",
+          "In a separate bowl, whisk together buttermilk, egg, melted butter, and vanilla extract.",
+          "Pour wet ingredients into the dry ingredients and stir until just combined. Do not overmix; batter should be slightly lumpy.",
+          "Heat a non-stick skillet or griddle over medium heat. Add a small amount of butter or oil to coat the surface.",
+          "Pour 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form on the surface, then flip and cook until golden brown on both sides.",
+          "Repeat with remaining batter, adding more butter or oil to the skillet as needed.",
+          "Serve hot with maple syrup and fresh berries."
+        ]
+      }
+    ]
+}
